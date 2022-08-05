@@ -45,7 +45,7 @@ This report is a final submission of 5-day workshop from [VLSI Sytem Design-IAT]
 ## 2.2 Introduction to open source simulator iverilog and gtkwave<a name="day1_22"></a>
 ### 2.2.1 Lab examples using iverilog and gtkwave<a name="day1_221"></a>
 ## 2.3 Introduction to Yosys synthesizer<a name="day1_23"></a>
-### 2.3.1 Labs on Yosys introduction<a name="Introduction"></a>
+### 2.3.1 Labs on Yosys introduction<a name="day1_231"></a>
 # 3. Day 2-Timing libs, hierarchical, flat synthesis, efficient flop coding styles<a name="day2"></a>
 ## 3.1 Introduction to timing .libs<a name="day2_31"></a>
 ### 3.1.1 LAB- Introduction to dot Lib<a name="day2_311"></a>
