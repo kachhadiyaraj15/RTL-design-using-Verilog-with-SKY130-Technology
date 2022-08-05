@@ -39,6 +39,7 @@
 7. [Word of Thanks](#end)
 
 # 1. Introduction <a name="Introduction"></a>
+This report is a final submission of 5-day workshop from [VLSI Sytem Design-IAT](https://www.vlsisystemdesign.com/) on RTL design and synthesis using open source tools, in particular iVerilog, GTKWave, Yosy and Skywater 130nm Standard Cell Libraries
 # 2. Day-1- Introduction to Verilog RTL design and Synthesis<a name="day1"></a>
 ## 2.1 Various aspects of frontend design<a name="day1_21"></a>
 ## 2.2 Introduction to open source simulator iverilog and gtkwave<a name="day1_22"></a>
